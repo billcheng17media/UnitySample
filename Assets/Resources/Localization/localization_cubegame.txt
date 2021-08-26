@@ -1,0 +1,19 @@
+{
+  "locales": {
+    "en": {
+      "keys": {
+        "settings.title": "Test"
+      }
+    },
+    "zh_tw": {
+      "keys": {
+        "settings.title": "測試"
+      }
+    },
+    "jp": {
+      "keys": {
+        "settings.title": "テスト"
+      }
+    }
+  }
+}
